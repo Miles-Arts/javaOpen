@@ -1,12 +1,23 @@
 package com.example;
 
-/***
+/*** JAVA DOC
+ *
+ *
  * @Autor Juanita Alimaña
  *
  * @date  Febrero
+ *
+ * Se le añade a cada clase y método el Java DOC
  */
 
 public class AdiosMundo {
+
+    /**
+     * Entrada Aplicación Java
+     *
+     * @param args -Argumentos de entrada
+     */
+
 
     public static void main(String[] args) {
 
