@@ -45,5 +45,7 @@ public class Tipos {
         //STRING es una CLASE
         String variable10 = "Hola"; // es una CLASE
 
+        System.out.println(variable10);
+
     }
 }
