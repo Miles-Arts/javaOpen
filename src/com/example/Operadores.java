@@ -44,5 +44,30 @@ public class Operadores {
         boolean resultado2 = numero1 < numero2;
         System.out.println(resultado2);
 
+        /*Operadores lógicos
+
+        AND &&
+        OR ||
+        NOT
+
+         */
+
+
+
+        boolean resultado3 = numero1 > 5 && numero1 < 30;
+
+        System.out.println("es " + resultado3);
+
+        int edad = 17;
+        int edad2 = 27;
+
+        Boolean carnetJoven = numero1 > 15 && numero1 <= 26;
+
+
+        System.out.println("es Joven " + carnetJoven);
+
+
+
+
     }
 }
